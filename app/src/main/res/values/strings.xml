@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">My Application</string>
+    <string name="weather_app">Weather App</string>
+    <string name="write_a_city">Write a city</string>
+    <string name="main_edit_text">Main edit text</string>
+    <string name="unable_to_get_weather_data">Unable to get weather data</string>
+    <string name="internal_server_error">Internal Server Error</string>
+    <string name="unauthorized">Unauthorized</string>
+    <string name="forbidden">Forbidden</string>
+    <string name="city_not_found">City not found</string>
+    <string name="try_another_city">Try another City</string>
+    <string name="current_weather">Current weather</string>
+    <string name="panama">Panama</string>
+    <string name="oslo">Oslo</string>
+    <string name="gothenburg">Gothenburg</string>
+    <string name="london">London</string>
 </resources>
